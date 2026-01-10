@@ -2,7 +2,7 @@
 <h3 align="center">A Engineering student from India</h3>
 
 <p align="center">
-  <a href="https://instagram.com/nyt__soul>
+  <a href="https://instagram.com/nyt__soul">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:neshun7413@gmail.com">
@@ -11,38 +11,47 @@
   <a href="https://linkedin.com/in/neshun-r-309b1b37b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/nytsoul>
+  <a href="https://github.com/nytsoul">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
-<p align="center">
+
 ## 🛠️ Languages and Tools
 
 ### Frontend Development
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" />
+</p>
 
 ### Backend Development
-![Skills](https://skillicons.dev/icons?i=python,nodejs,java,express,c,cpp)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java,express,c,cpp" />
+</p>
 
 ### Blockchain & Web3
-![Skills](https://skillicons.dev/icons?i=solidity)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity" />
+</p>
 
 ### Mobile Development
-![Skills](https://skillicons.dev/icons?i=flutter,dart)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
+</p>
 
 ### Browser Extensions & Dev Tools
-![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nytsou&theme=dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nytsoul&theme=dark" width="48%"/>
 </p>
 
 ---
