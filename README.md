@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi Neshun R 👋
+## 🛠️ Languages and Tools
+### Frontend Development
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)
+### Backend Development
+![Skills](https://skillicons.dev/icons?i=python,nodejs,java,express)
+### Mobile Development
+![Skills](https://skillicons.dev/icons?i=flutter,dart,reactnative)
 
 <!--
 **nytsoul/nytsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
