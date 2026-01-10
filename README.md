@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+<p align="center">
 ## 🛠️ Languages and Tools
 
 ### Frontend Development
@@ -35,7 +35,7 @@
 
 ### Browser Extensions & Dev Tools
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode)
-
+</p>
 ---
 
 ## 📊 GitHub Stats
