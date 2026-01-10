@@ -1,23 +1,53 @@
-## Hi Neshun R 👋
+<h1 align="center">Hi 👋, I'm Neshun R</h1>
+<h3 align="center">A Engineering student from India</h3>
+
+<p align="center">
+  <a href="https://instagram.com/nyt__soul>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:neshun7413@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/neshun-r-309b1b37b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nytsoul>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Languages and Tools
+
 ### Frontend Development
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap)
+
 ### Backend Development
-![Skills](https://skillicons.dev/icons?i=python,nodejs,java,express)
+![Skills](https://skillicons.dev/icons?i=python,nodejs,java,express,c,cpp)
+
+### Blockchain & Web3
+![Skills](https://skillicons.dev/icons?i=solidity)
+
+
 ### Mobile Development
-![Skills](https://skillicons.dev/icons?i=flutter,dart,reactnative)
+![Skills](https://skillicons.dev/icons?i=flutter,dart)
 
-<!--
-**nytsoul/nytsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Browser Extensions & Dev Tools
+![Skills](https://skillicons.dev/icons?i=git,github,vscode)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nytsou&theme=dark" width="48%"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&theme=dark"/>
+</p>
