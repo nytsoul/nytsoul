@@ -45,17 +45,3 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nytsou&theme=dark" width="48%"/>
-</p>
-
----
-
-## 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&theme=dark"/>
-</p>
