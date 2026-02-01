@@ -20,45 +20,28 @@
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/nytsoul/nytsoul/output/github-contribution-grid-snake.svg"
-    alt="snake animation"
-  />
+  <img src="https://raw.githubusercontent.com/nytsoul/nytsoul/output/github-contribution-grid-snake.svg" />
 </p>
 
 <hr/>
 
 <h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=nytsoul&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://streak-stats.demolab.com?user=nytsoul&theme=tokyonight&hide_border=true" />
 </p>
 
 <hr/>
 
-<h2 align="center">📊 GitHub Stats (Auto Theme)</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <hr/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&row=1"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 <hr/>
