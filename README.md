@@ -15,45 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-<hr/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">
-
-![snake](https://raw.githubusercontent.com/nytsoul/nytsoul/output/github-contribution-grid-snake.svg)
-
-</p>
-
-<hr/>
-
-<h2 align="center">🔥 GitHub Streaks</h2>
-<p align="center">
-
-![streak](https://streak-stats.demolab.com?user=nytsoul&theme=tokyonight&hide_border=true)
-
-</p>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true)
-
-</p>
-
-<hr/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=6)
-
-</p>
-
-<hr/>
-
 <h2 align="center">🛠️ Languages, Tools & Databases</h2>
 
 <h3 align="center">Frontend</h3>
@@ -76,7 +37,38 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-<hr/>
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/nytsoul/nytsoul/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+  />
+</p>
+
+<h2 align="center">🔥 GitHub Streaks</h2>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=nytsoul&theme=tokyonight&hide_border=true"
+    alt="GitHub Streaks"
+  />
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
+
 
 <h2 align="center">📝 Pinned Projects</h2>
 <p align="center">
@@ -88,6 +80,4 @@
   </a>
 </p>
 
-<hr/>
-
-<p align="center"><i>"Consistency beats motivation."</i></p>
+<p align="center"><i>“Consistency beats motivation.”</i></p>
