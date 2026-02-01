@@ -20,28 +20,36 @@
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nytsoul/nytsoul/output/github-contribution-grid-snake.svg" />
+
+![snake](https://raw.githubusercontent.com/nytsoul/nytsoul/output/github-contribution-grid-snake.svg)
+
 </p>
 
 <hr/>
 
 <h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nytsoul&theme=tokyonight&hide_border=true" />
+
+![streak](https://streak-stats.demolab.com?user=nytsoul&theme=tokyonight&hide_border=true)
+
 </p>
 
 <hr/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true" />
+
+![stats](https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true)
+
 </p>
 
 <hr/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=6" />
+
+![trophy](https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=6)
+
 </p>
 
 <hr/>
