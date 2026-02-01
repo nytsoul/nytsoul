@@ -29,7 +29,7 @@
 
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,firebase"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,supabase"/>
 </p>
 
 <h3 align="center">Dev Tools</h3>
