@@ -45,29 +45,26 @@
   />
 </p>
 
-<h2 align="center">🔥 GitHub Streaks</h2>
+<h2 align="center">📊 GitHub Overview</h2>
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=nytsoul&theme=tokyonight&hide_border=true"
+    width="320"
     alt="GitHub Streaks"
   />
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true"
+    width="320"
     alt="GitHub Stats"
   />
-</p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=3"
+    width="320"
     alt="GitHub Trophies"
   />
 </p>
+
 
 
 <h2 align="center">📝 Pinned Projects</h2>
