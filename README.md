@@ -16,81 +16,78 @@
   </a>
 </p>
 
----
+<hr/>
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nytsoul/nytsoul/output/github-contribution-grid-snake.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/nytsoul/nytsoul/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+  />
 </p>
 
----
+<hr/>
 
-## 🔥 GitHub Streaks
+<h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nytsoul&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=nytsoul&theme=tokyonight&hide_border=true"
+  />
 </p>
 
----
+<hr/>
 
-## 📊 GitHub Stats (Auto Dark / Light)
+<h2 align="center">📊 GitHub Stats (Auto Theme)</h2>
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=default"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true"/>
   </picture>
 </p>
 
----
+<hr/>
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&row=1"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&row=1"
+  />
 </p>
 
----
+<hr/>
 
-## 🛠️ Languages, Tools & Databases
+<h2 align="center">🛠️ Languages, Tools & Databases</h2>
 
-### 🎨 Frontend
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap"/>
 </p>
 
-### ⚙️ Backend
+<h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,python,express,c,cpp"/>
 </p>
 
-### 🗄️ Databases
+<h3 align="center">Databases</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,firebase"/>
 </p>
 
-### 🔗 Blockchain & Web3
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity"/>
-</p>
-
-### 📱 Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react"/>
-</p>
-
-### 🧰 Dev Tools
+<h3 align="center">Dev Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
----
+<hr/>
 
-## 📝 Pinned Projects
+<h2 align="center">📝 Pinned Projects</h2>
 <p align="center">
   <a href="https://github.com/nytsoul/PROJECT_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nytsoul&repo=PROJECT_1&theme=tokyonight"/>
@@ -100,21 +97,6 @@
   </a>
 </p>
 
----
+<hr/>
 
-## 🌱 Currently Learning
-- Advanced DSA & Competitive Programming  
-- System Design  
-- Cybersecurity  
-- Blockchain Smart Contracts  
-
----
-
-## 🎯 Career Goal
-🚀 Software Engineer @ **Google / Microsoft**
-
----
-
-<p align="center">
-  <i>"Consistency beats motivation."</i>
-</p>
+<p align="center"><i>"Consistency beats motivation."</i></p>
