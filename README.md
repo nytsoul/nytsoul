@@ -46,8 +46,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nytsoul&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nytsoul&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </div>
 
 <p align="center">
