@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">� Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nytsoul&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=38bdae&point=80d4ff&area=true" alt="Contribution Graph"/>
 </p>
@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-<h2 align="center">� StreakCard Component</h2>
+<h2 align="center"> StreakCard Component</h2>
 
 <p align="center">
   A beautiful, fully responsive React component to display GitHub contribution streaks with animated progress ring and fire icon animation.
@@ -83,7 +83,7 @@ Located in [`components/StreakCard.jsx`](./components/StreakCard.jsx)
 <StreakCard />
 ```
 
-<h3 align="center">🛠 Installation</h3>
+<h3 align="center">� Installation</h3>
 
 Make sure Tailwind CSS is installed and configured in your project:
 
