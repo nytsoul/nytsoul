@@ -46,12 +46,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nytsoul&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=nytsoul&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=5" alt="GitHub Trophies"/>
 </p>
 
 <h2 align="center">🔝 Most Used Languages</h2>
@@ -60,7 +60,47 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-<h2 align="center">📝 Pinned Projects</h2>
+<h2 align="center">� StreakCard Component</h2>
+
+<p align="center">
+  A beautiful, fully responsive React component to display GitHub contribution streaks with animated progress ring and fire icon animation.
+</p>
+
+<h3 align="center">✨ Features</h3>
+
+- 🎨 Dark gradient card design with glassmorphism effect
+- 📊 3-column layout (Total Contributions | Current Streak | Longest Streak)
+- 🌟 Glowing circular progress ring with smooth animations
+- 🔥 Fire icon on top with drop shadow
+- 📱 Fully responsive (works on mobile, tablet, desktop)
+- ⚙️ Easy to customize numbers & dates
+
+<h3 align="center">📁 Component Files</h3>
+
+Located in [`components/StreakCard.jsx`](./components/StreakCard.jsx)
+
+```jsx
+<StreakCard />
+```
+
+<h3 align="center">🛠 Installation</h3>
+
+Make sure Tailwind CSS is installed and configured in your project:
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+<h3 align="center">🎯 Customization</h3>
+
+- Change streak value → `currentStreak`
+- Control ring fill → `maxStreak`
+- Change glow color → replace `#f59e0b`
+- Add animations → use `animate-pulse` or `drop-shadow`
+
+<h2 align="center">�📝 Pinned Projects</h2>
 <p align="center">
   <a href="https://github.com/nytsoul/PROJECT_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nytsoul&repo=PROJECT_1&theme=tokyonight"/>
