@@ -46,18 +46,18 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nytsoul&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/nytsoul">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/nytsoul">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=5" alt="GitHub Trophies"/>
-</p>
-
-<h2 align="center">🔝 Most Used Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/nytsoul">
+    <img src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 <h2 align="center"> StreakCard Component</h2>
