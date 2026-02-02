@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 <h2 align="center">🛠️ Languages, Tools & Databases</h2>
 
 <h3 align="center">Frontend</h3>
@@ -37,35 +38,27 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 Contribution Graph</h2>
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/nytsoul/nytsoul/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nytsoul&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=38bdae&point=80d4ff&area=true" alt="Contribution Graph"/>
 </p>
 
-<h2 align="center">📊 GitHub Overview</h2>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nytsoul&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+</div>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=nytsoul&theme=tokyonight&hide_border=true"
-    width="320"
-    alt="GitHub Streaks"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true"
-    width="320"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=3"
-    width="320"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&column=4&row=1" alt="GitHub Trophies"/>
 </p>
 
+<h2 align="center">🔝 Most Used Languages</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
 <h2 align="center">📝 Pinned Projects</h2>
 <p align="center">
@@ -77,4 +70,4 @@
   </a>
 </p>
 
-<p align="center"><i>“Consistency beats motivation.”</i></p>
+<p align="center"><i>"Consistency beats motivation."</i></p>
