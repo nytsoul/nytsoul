@@ -63,13 +63,15 @@
 
 <p align="center">
   <a href="https://github.com/nytsoul/Algorithms-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nytsoul&repo=Algorithms-web&theme=tokyonight&cache_seconds=86400"/>
+    Algorithms-web
   </a>
-  
+  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/nytsoul/Agroverse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nytsoul&repo=Agroverse&theme=tokyonight&cache_seconds=86400"/>
+    Agroverse
   </a>
 </p>
 
+<p align="center">
+  <i>"Consistency beats motivation."</i>
+</p>
 
-<p align="center"><i>"Consistency beats motivation."</i></p>
