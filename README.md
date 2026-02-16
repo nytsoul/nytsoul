@@ -46,19 +46,20 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/nytsoul">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  </a>
-  <a href="https://github.com/nytsoul">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
-  </a>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </div>
 
+<br/>
+
 <p align="center">
-  <a href="https://github.com/nytsoul">
-    <img src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&row=1&column=6"/>
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=86400" />
 </p>
+
 
 
 <h2 align="center">�📝 Pinned Projects</h2>
