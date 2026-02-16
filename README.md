@@ -46,19 +46,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
 
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nytsoul&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/nytsoul?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/nytsoul?style=for-the-badge" />
+
 </div>
 
-<br/>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=86400" />
-</p>
 
 
 
