@@ -59,13 +59,15 @@
 
 
 
-<h2 align="center">�📝 Pinned Projects</h2>
+<h2 align="center">📝 Pinned Projects</h2>
+
 <p align="center">
-  <a href="https://github.com/nytsoul/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nytsoul&repo=PROJECT_1&theme=tokyonight"/>
+  <a href="https://github.com/nytsoul/Algorithms-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nytsoul&repo=Algorithms-web&theme=tokyonight&cache_seconds=86400"/>
   </a>
-  <a href="https://github.com/nytsoul/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nytsoul&repo=PROJECT_2&theme=tokyonight"/>
+
+  <a href="https://github.com/nytsoul/Agroverse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nytsoul&repo=Agroverse&theme=tokyonight&cache_seconds=86400"/>
   </a>
 </p>
 
