@@ -68,9 +68,6 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/nytsoul/Agroverse">
     Agroverse
-    <a  href="https://github.com/nytsoul/Guard-AI"
->&nbsp;&nbsp;|&nbsp;&nbsp;
-      Guard-AI
   </a>
 </p>
 
