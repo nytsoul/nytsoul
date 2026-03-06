@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neshun R</h1>
+n<h1 align="center">Hi 👋, I'm Neshun R</h1>
 <h3 align="center">Engineering Student from India 🇮🇳</h3>
 
 <p align="center">
@@ -38,6 +38,23 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
+<h2 align="center">� Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nytsoul&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=38bdae&point=80d4ff&area=true" alt="Contribution Graph"/>
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nytsoul&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/nytsoul?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/nytsoul?style=for-the-badge" />
+
+</div>
 
 
 <h2 align="center">📝 Pinned Projects</h2>
