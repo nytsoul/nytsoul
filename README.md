@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neshun R</h1>
-<h3 align="center">Engineering Student from India,  chennai</h3>
+<h3 align="center">Engineering Student from India, chennai</h3>
 
 <p align="center">
   <a href="https://instagram.com/nyt__soul">
