@@ -56,7 +56,16 @@
 
 </div>
 
+<h2 align="center">🏆 Coding Profiles</h2>
 
+<p align="center">
+  <a href="https://leetcode.com/nyt__soul">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/nyt__soul">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
 <h2 align="center">📝 Pinned Projects</h2>
 
 <p align="center">
