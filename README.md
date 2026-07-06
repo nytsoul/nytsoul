@@ -26,225 +26,53 @@ Building intelligent AI systems, scalable web applications, and real-world produ
   </a>
 </p>
 
----
-
-# 🚀 About Me
-
-- 🎓 Computer Science Engineering Student
-- 🤖 Passionate about AI, Agentic Systems & Full Stack Development
-- 💻 Building scalable web applications with modern technologies
-- 🏆 SIH 2025 Finalist
-- 🚀 Developing AI-powered products for hackathons and startups
-- 🌱 Currently learning Cloud, System Design & Advanced AI
-- 📫 Reach me: **neshun7413@gmail.com**
-
-
-# 🛠 Tech Stack
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
-</p>
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
-</p>
-
-## 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" />
-</p>
-
-## 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
-</p>
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,npm" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🌾 Agroverse
-
-A modern agriculture platform built to explore product engineering, UI/UX, and full-stack development.
-
-**Tech:** React • Node.js • MongoDB
-
-🔗 https://github.com/nytsoul/Agroverse
-
----
-
-## 📈 Algorithms Web
-
-An interactive visualization platform for learning Data Structures & Algorithms.
-
-Features:
-
-- Sorting Visualizer
-- Searching Algorithms
-- Graph Algorithms
-- Trees
-- Dynamic Animation
-
-🔗 https://github.com/nytsoul/Algorithms-web
-
----
-
-## 🧠 Cognirad
-
-Healthcare AI project for burnout detection using multimodal data.
-
-Highlights:
-
-- Federated Learning
-- SHAP Explainability
-- Mental Health Monitoring
-- AI-powered Insights
-
----
-
-## 🛡 Sentinel Shield
-
-An AI-driven cybersecurity solution focused on intelligent threat detection and monitoring.
-
----
-
-## 🌸 Bloom Cards
-
-A production-ready e-commerce platform developed for a flower bouquet greeting card business.
-
-Features:
-
-- Next.js
-- Prisma
-- Supabase
-- Razorpay
-- Admin Dashboard
-- Order Management
-
----
-
-# 📊 GitHub Stats
-
+<h2 align="center">🛠️ Languages, Tools & Databases</h2>
+<h3 align="center">Frontend</h3>
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nytsoul&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytsoul&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
-
+<h3 align="center">Backend</h3>
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nytsoul&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=java,nodejs,python,express,c,cpp"/>
 </p>
-
----
-
-# 📈 Contribution Graph
-
+<h3 align="center">Databases</h3>
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nytsoul&theme=tokyo-night"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,supabase"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
+<h3 align="center">Dev Tools</h3>
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nytsoul&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
-
----
-
-# 💻 Competitive Programming
-
+<h2 align="center">� Contribution Graph</h2>
 <p align="center">
-
-<a href="https://leetcode.com/nyt__soul">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/nyt__soul">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nytsoul&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=38bdae&point=80d4ff&area=true" alt="Contribution Graph"/>
 </p>
-
----
-
-# 🌐 Connect With Me
-
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nytsoul&theme=tokyonight" />
+<br><br>
+<img src="https://img.shields.io/github/followers/nytsoul?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/nytsoul?style=for-the-badge" />
+</div>
+<h2 align="center">🏆 Coding Profiles</h2>
 <p align="center">
-
-<a href="mailto:neshun7413@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/neshun-r-309b1b37b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/nytsoul">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://instagram.com/nyt__soul">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <a href="https://leetcode.com/nyt__soul">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/nyt__soul">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
-
----
-
-# 👀 Profile Views
-
+<h2 align="center">📝 Pinned Projects</h2>
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nytsoul&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+  <a href="https://github.com/nytsoul/Algorithms-web">
+    Algorithms-web
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/nytsoul/Agroverse">
+    Agroverse
+  </a>
 </p>
-
----
-
-# 💭 Quote
-
 <p align="center">
-
-### *"Consistency beats motivation. Discipline builds excellence."*
-
-⭐ **Thanks for visiting my profile!**
-
+  <i>"Consistency beats motivation."</i>
 </p>
